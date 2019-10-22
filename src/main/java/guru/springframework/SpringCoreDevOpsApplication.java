@@ -10,5 +10,6 @@ public class SpringCoreDevOpsApplication {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
 		//This is atribute to CI/CD -Lets keep fingers crossed
+		// ANOTHER ONE
 	}
 }
