@@ -9,8 +9,6 @@ public class SpringCoreDevOpsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
-		//This is atribute to CI/CD -Lets keep fingers crossed
-		// ANOTHER ONE
-		//3RD ONE
+		//JMD BUILD IT
 	}
 }
